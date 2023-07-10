@@ -1,15 +1,4 @@
-# import streamlit as st
-# import pickle
-# import streamlit_option_menu as option_manue
 
-
-# dibatese_model = pickle.load(open(r"C:\Users\Dell\Desktop\New folder\model.pkl","rb"))
-
-# with st.sidebar:
-    
-#     selected = option_manue('Dibatese Pridiction system',
-#                  ["Dibatese Prediction using ML",
-#                   "Model 1","Model 2"],defult_index = 0)
 
                  
 import streamlit as st
